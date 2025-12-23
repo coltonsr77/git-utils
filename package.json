@@ -30,7 +30,7 @@
   "main": "./src/git.js",
   "devDependencies": {
     "jasmine-focused": "^1.0.4",
-    "standard": "^10.0.3",
+    "standard": "^17.1.2",
     "temp": "~0.9.4",
     "underscore": "~1.5.2",
     "wrench": "~1.5.9"
