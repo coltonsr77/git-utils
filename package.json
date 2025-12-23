@@ -33,7 +33,7 @@
     "standard": "^17.1.2",
     "temp": "~0.9.4",
     "underscore": "~1.5.2",
-    "wrench": "~1.4.4"
+    "wrench": "~1.5.9"
   },
   "dependencies": {
     "fs-plus": "^3.0.0",
